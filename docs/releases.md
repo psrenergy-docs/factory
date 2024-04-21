@@ -5,7 +5,7 @@ nav_order: 2
 
 # Version 3.3.0
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.0-windows-x64-774c1f3-release.zip
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.0-windows-x64-774c1f3-release.zip)
 
 ## Changes
 
