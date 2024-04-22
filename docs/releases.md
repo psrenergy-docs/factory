@@ -3,9 +3,16 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.3.0
+# Version 3.3.1
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.0-windows-x64-774c1f3-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.1-windows-x64-0ef3b83-release.zip)
+
+## Changes
+
+- Fix sorting battery modification by date (`mbattery*.dat`).
+
+
+# Version 3.3.0
 
 ## Changes
 
