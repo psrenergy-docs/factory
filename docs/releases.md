@@ -3,9 +3,53 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.3.1
+# Version 3.3.7
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.1-windows-x64-0ef3b83-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.7-windows-x64-37f49de-release.zip)
+
+## Changes
+
+- Improved error mesages when invalid indices are provided do `set_df`.
+
+
+# Version 3.3.6
+
+## Changes
+
+- Add name to returned dataframe's index.
+
+- Add `extra_args` parameter to `psr.runner.run_sddp` method.
+
+
+# Version 3.3.5
+
+## Changes
+
+- Add reflection method to access grouped properties (`grouped_with`).
+
+
+# Version 3.3.4
+
+## Changes
+
+- Fix setting `ThermalPlant` modification values to `None`.
+
+
+# Version 3.3.3
+
+## Changes
+
+- Update NetPlan database support.
+
+
+# Version 3.3.2
+
+## Changes
+
+- Add support for `numpy` int and float types.
+
+
+# Version 3.3.1
 
 ## Changes
 
