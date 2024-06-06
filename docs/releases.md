@@ -3,9 +3,32 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.3.7
+# Version 3.3.10
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.7-windows-x64-37f49de-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.10-windows-x64-529ad34-release.zip)
+
+## Changes
+
+- Fix handling empty hourly scenarios.
+
+- Update `psr.runner` module, adds `run_psrio` function.
+
+
+# Version 3.3.9
+
+## Changes
+
+- Update docs.
+
+
+# Version 3.3.8
+
+## Changes
+
+- Make `RenewablePlant`'s `RefStation` optional for Unitary Scenario option.
+
+
+# Version 3.3.7
 
 ## Changes
 
