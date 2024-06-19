@@ -3,9 +3,25 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.3.10
+# Version 3.4.0
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.3.10-windows-x64-529ad34-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.0-windows-x64-47f89ba-release.zip)
+
+## Changes
+
+- Fix behaviour of `clear_values` - previous version could clear other grouped values.
+
+- `clear_value` will set property values to the default when grouped with other values. 
+
+
+# Version 3.3.11
+
+## Changes
+
+- Fix DataFrame index name when DataObjects are returned as indices.
+
+
+# Version 3.3.10
 
 ## Changes
 
