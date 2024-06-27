@@ -3,9 +3,23 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.4.0
+# Version 3.4.2
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.0-windows-x64-47f89ba-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.2-windows-x64-bc00d3f-release.zip)
+
+## Changes
+
+- Fix behaviour of `clear_values` and `set_at` after clearing values of a property grouped with other(s).
+
+
+# Version 3.4.1
+
+## Changes
+
+- Fix support for other encodings such as latin-1.
+
+
+# Version 3.4.0
 
 ## Changes
 
