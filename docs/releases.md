@@ -3,9 +3,16 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.4.2
+# Version 3.4.3
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.2-windows-x64-bc00d3f-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.3-windows-x64-2cafd57-release.zip)
+
+## Changes
+
+- Remove temporary files (.tmp) generated after loading a study when a study is deleted or module unloaded.
+
+
+# Version 3.4.2
 
 ## Changes
 
