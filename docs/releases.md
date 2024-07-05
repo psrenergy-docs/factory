@@ -3,9 +3,18 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.4.3
+# Version 3.4.4
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.3-windows-x64-2cafd57-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.4-windows-x64-febcf94-release.zip)
+
+## Changes
+
+- Fix bug where a weekly case's context is set as monthly.
+
+- Fix dataframe date format to reflect case's stage type (weekly or monthly).
+
+
+# Version 3.4.3
 
 ## Changes
 
