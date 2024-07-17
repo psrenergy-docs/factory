@@ -3,9 +3,24 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.4.4
+# Version 3.4.5
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.4-windows-x64-febcf94-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.5-windows-x64-18942ad-release.zip)
+
+## Changes
+
+- Fix bug where factory enters into an infinite loop while accessing planned NetPlan data.
+
+- Automatically load OptGen data when NetPlan model is specified.
+
+- Fix multidimensional property default expression.
+
+- Fix issue with property names containing `.`.
+
+- Fix loading NetPlan cases with `LCCConverter`, `VSCConverter` and `SeriesCapacitor`.
+
+
+# Version 3.4.4
 
 ## Changes
 
