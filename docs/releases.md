@@ -3,9 +3,20 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.4.5
+# Version 3.5.0
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.4.5-windows-x64-18942ad-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.5.0-windows-x64-611f2ef-release.zip)
+
+## Changes
+
+- Add diagnostics features:
+
+	- `set_log_level` enable log generation in current working directory (`factory.log`).
+
+	- `set_debug_mode` adds more details in log messages such as loaded elements.
+
+
+# Version 3.4.5
 
 ## Changes
 
