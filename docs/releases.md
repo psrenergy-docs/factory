@@ -3,9 +3,22 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.5.0
+# Version 3.5.1
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.5.0-windows-x64-611f2ef-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.5.1-windows-x64-8641699-release.zip)
+
+## Changes
+
+- Add references properties to documentation.
+
+- Hide internal properties from documentation.
+
+- Fix `HydroPlant`'s `OperationMode` property access.
+
+- Performance improvements.
+
+
+# Version 3.5.0
 
 ## Changes
 
