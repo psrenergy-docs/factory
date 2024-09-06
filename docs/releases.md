@@ -3,9 +3,20 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.5.1
+# Version 3.6.0
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.5.1-windows-x64-8641699-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.0-windows-x64-63a838a-release.zip)
+
+## Changes
+
+- Add `TSL` model support.
+
+- Load and save Hydrological Parameter Estimation data with SDDP studies.
+
+- Add `NetPlanIncrementalToSddp` option to `LoadOptions` to control loading detailed SDDP data.
+
+
+# Version 3.5.1
 
 ## Changes
 

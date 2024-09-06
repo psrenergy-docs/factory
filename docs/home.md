@@ -9,9 +9,9 @@ permalink: /
 # Welcome to the PSR Factory Python package
 
 
-# Version 3.5.1
+# Version 3.6.0
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.5.1-windows-x64-8641699-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.0-windows-x64-63a838a-release.zip)
 
 
 ## Support or Contact
