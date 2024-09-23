@@ -3,9 +3,20 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.6.1
+# Version 3.6.2
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.1-windows-x64-d20e25a-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.2-windows-x64-7761447-release.zip)
+
+## Changes
+
+- Fix loading/saving `CSP` data.
+
+- Rename `DCLink` to `TwoTerminalsDCLink`.
+
+- Add `MTDCLink` as NetPlan's detailed `DCLink`.
+
+
+# Version 3.6.1
 
 ## Changes
 
