@@ -3,9 +3,18 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.6.2
+# Version 3.6.3
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.2-windows-x64-7761447-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.3-windows-x64-2b36198-release.zip)
+
+## Changes
+
+- Fix log levels.
+
+- Fast NetPlan case loading.
+
+
+# Version 3.6.2
 
 ## Changes
 
