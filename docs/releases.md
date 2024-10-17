@@ -3,9 +3,38 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 3.6.3
+# Version 4.0.0
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-3.6.3-windows-x64-2b36198-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.0-windows-x64-32ebbc8-release.zip)
+
+## Changes
+
+- Add `psr.factory.DataFrame` object
+
+- Read/write/convert models' output files
+
+- Conversion from `psr.factory.DataFrame` to `pandas.DataFrame`/`polars.DataFrame` and vice-versa.
+
+- Bundle `psr.cloud` module for PSR Cloud case upload and control automation.
+
+
+# Version 3.6.5
+
+## Changes
+
+- Allow `TwoTerminalsDCLink` objects on `SumOfCircuits` constraints.
+
+
+# Version 3.6.4
+
+## Changes
+
+- Fix fast case loading.
+
+- Update docs.
+
+
+# Version 3.6.3
 
 ## Changes
 
