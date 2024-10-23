@@ -3,9 +3,20 @@ title: Release Notes
 nav_order: 2
 ---
 
-# Version 4.0.0
+# Version 4.0.1
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.0-windows-x64-32ebbc8-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.1-windows-x64-e2b9ba8-release.zip)
+
+## Changes
+
+- Fix coefficients of GenericConstraint, SumOfCircuit and SumOfInterconnection constraints of loaded cases.
+
+- Update `psr.cloud` module, import cases to PSR Cloud Desktop.
+
+- Add `run_nwsddp` to `psr.runner` module.
+
+
+# Version 4.0.0
 
 ## Changes
 
