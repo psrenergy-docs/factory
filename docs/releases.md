@@ -3,6 +3,18 @@ title: Release Notes
 nav_order: 2
 ---
 
+# Version 4.0.2
+
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.2-windows-x64-3cb9be7-release.zip)
+
+
+## Changes
+
+- Add support for `ExpansionGenericConstraint`
+
+- Optmize loading dataframes from output files.
+
+
 # Version 4.0.1
 
 🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.1-windows-x64-e2b9ba8-release.zip)

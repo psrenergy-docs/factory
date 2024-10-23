@@ -9,9 +9,9 @@ permalink: /
 # Welcome to the PSR Factory Python package
 
 
-# Version 4.0.1
+# Version 4.0.2
 
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.1-windows-x64-e2b9ba8-release.zip)
+🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.2-windows-x64-3cb9be7-release.zip)
 
 
 ## Support or Contact
