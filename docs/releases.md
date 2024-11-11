@@ -3,10 +3,35 @@ title: Release Notes
 nav_order: 2
 ---
 
+# Version 4.0.7
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.7-windows-x64-2609632-release.zip)
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.7-linux-x64-8e1a13b-release.zip)
+
+## Changes
+
+- Update `psr.cloud` module, fix auth issue.
+- Update `psr.runner` module, fix SDDP parallel run.
+
+
+# Version 4.0.6
+
+## Changes
+
+- Fix issue identifying integer/float types coming from `pandas`/`numpy` packages.
+
+
+# Version 4.0.5
+
+## Changes
+
+- Fix `GenerationConstraint`'s `RefPlants` and `RefBatteries`.
+- Fix validation of `R` and `X` values for circuits.
+- Update `psr.cloud` module.
+- Update `psr.runner.run_nwsddp`.
+
+
 # Version 4.0.4
-
-🔗 [Download](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.4-windows-x64-3f09148-release.zip)
-
 
 ## Changes
 
