@@ -3,12 +3,13 @@ title: Release Notes
 nav_order: 2
 ---
 
-## Version 4.0.10
+# Version 4.0.10
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.10-windows-x64-cb84509-release.zip)
 
 🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.10-linux-x64-81c519a1-release.zip)
 
+## Changes
 
 - `Study.get_at`, `Study.set_at`, `DataObject.get_at`, `DataObject.set_at` accepting Python's `datetime` object as date argument.
 
@@ -17,7 +18,9 @@ nav_order: 2
 - Add `cluster_settings` to `psr.runner.run_sddp`.
 
 
-## Version 4.0.9
+# Version 4.0.9
+
+## Changes
 
 - `Study.find_by_code` accepting two parameters - type name as string and object code as integer.
 
@@ -28,8 +31,9 @@ nav_order: 2
 - Add `TSLMainTurbinePath`, `TSLCustomTurbinePath`, and `TSLMERRAPath` properties to `LoadOptions` objects.
 
 
-## Version 4.0.8
+# Version 4.0.8
 
+## Changes
 
 - Fix reading dates on Linux version.
 
