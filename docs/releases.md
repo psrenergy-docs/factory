@@ -3,15 +3,47 @@ title: Release Notes
 nav_order: 2
 ---
 
+## Version 4.0.10
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.10-windows-x64-cb84509-release.zip)
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.10-linux-x64-81c519a1-release.zip)
+
+
+- `Study.get_at`, `Study.set_at`, `DataObject.get_at`, `DataObject.set_at` accepting Python's `datetime` object as date argument.
+
+- Fix `psr.runner` module for beta SDDP versions.
+
+- Add `cluster_settings` to `psr.runner.run_sddp`.
+
+
+## Version 4.0.9
+
+- `Study.find_by_code` accepting two parameters - type name as string and object code as integer.
+
+- Add support for paths specified with `pathlib.Path` objects.
+
+- Fix reading `RefElements` of `InterpolationGenericConstraint` objects.
+
+- Add `TSLMainTurbinePath`, `TSLCustomTurbinePath`, and `TSLMERRAPath` properties to `LoadOptions` objects.
+
+
+## Version 4.0.8
+
+
+- Fix reading dates on Linux version.
+
+- Fix loading `SumOfCircuits` of NetPlan studies.
+
+- Add support for `CircuitFlowConstraint` of NetPlan studies.
+
+
 # Version 4.0.7
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.7-windows-x64-2609632-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.7-linux-x64-8e1a13b-release.zip)
 
 ## Changes
 
 - Update `psr.cloud` module, fix auth issue.
+
 - Update `psr.runner` module, fix SDDP parallel run.
 
 
@@ -27,8 +59,11 @@ nav_order: 2
 ## Changes
 
 - Fix `GenerationConstraint`'s `RefPlants` and `RefBatteries`.
+
 - Fix validation of `R` and `X` values for circuits.
+
 - Update `psr.cloud` module.
+
 - Update `psr.runner.run_nwsddp`.
 
 
