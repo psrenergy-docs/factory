@@ -3,6 +3,8 @@ title: Release Notes
 nav_order: 2
 ---
 
+📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
+
 # Version 4.0.10
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.10-windows-x64-cb84509-release.zip)
