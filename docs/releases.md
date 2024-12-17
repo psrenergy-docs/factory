@@ -5,13 +5,24 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
-# Version 4.0.11
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.11-windows-x64-4685fd5-release.zip)
+# Version 4.0.12
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.12-windows-x64-686ec3d-release.zip)
 
 
 ## Changes
 
+- Optimize `find`, `find_by_name`, `find_by_code`, `find_by_id`.
+
+- Add deprecation warning to `find_by_code` called with one string argument.
+
+- Fix reading results by block and hours.
+
+
+# Version 4.0.11
+
+## Changes
 
 - Fix weekly cases hourly date/time string format.
 
