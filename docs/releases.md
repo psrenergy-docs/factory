@@ -6,12 +6,29 @@ nav_order: 2
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
 
+# Version 4.0.14
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-windows-x64-84840b6-release.zip)
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-linux-x64-84840b63-release)
+
+
+## Changes
+
+- Add `MinimumOperativeStorage` constraint, converting `MinimumStorage` as the `HydroPlant` reservoir structural value.
+
+- Fix saving OptGen study with batteries and without network data.
+
+- Fix validation error message on saving output/dataframes.
+
+- Update error treatment for longer messages.
+
+- Fix saving variable duration data.
+
+- Update PyCloud module.
+
+
 # Version 4.0.13
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.13-windows-x64-50344b3-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.13-linux-x64-50344b3e-release.zip)
-
 
 ## Changes
 
