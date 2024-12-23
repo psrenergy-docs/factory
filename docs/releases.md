@@ -10,7 +10,7 @@ nav_order: 2
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-windows-x64-84840b6-release.zip)
 
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-linux-x64-84840b63-release)
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-linux-x64-84840b63-release.zip)
 
 
 ## Changes
