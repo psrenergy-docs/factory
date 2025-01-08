@@ -5,13 +5,29 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.16
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.16-windows-x64-6e84123-release.zip)
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.16-linux-x64-6e84123-release.zip)
+
+
+## Changes
+
+- Fix setting and getting `InterpolationGenericConstraint`'s name and code.
+- Fix accessing read-only Study properties such as `FinalYear` and `FinalStage`.
+- Rename `MinimumStoragePenalty` to `MinimumOperativeStoragePenalty` to avoid clash with existing NCP property.
+
+
+# Version 4.0.15
+
+## Changes
+
+- Add `run_sddp_cleanup`, `run_optgen_cleanup`, and `run_optgen_check` to `psr.runner` module.
+- Fix loading `GenericConstraint` objects.
+
 
 # Version 4.0.14
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-windows-x64-84840b6-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.14-linux-x64-84840b63-release.zip)
-
 
 ## Changes
 
