@@ -15,8 +15,12 @@ nav_order: 2
 ## Changes
 
 - Fix setting and getting `InterpolationGenericConstraint`'s name and code.
-- Fix accessing read-only Study properties such as `FinalYear` and `FinalStage`.
+
+- Fix accessing read-only Study properties such as `CalculatedFinalYear` and `CalculatedFinalStage`.
+
 - Rename `MinimumStoragePenalty` to `MinimumOperativeStoragePenalty` to avoid clash with existing NCP property.
+
+- Rename `FinalYear` to `CalculatedFinalYear` and `FinalStage` to `CalculatedFinalStage`.
 
 
 # Version 4.0.15
@@ -24,6 +28,7 @@ nav_order: 2
 ## Changes
 
 - Add `run_sddp_cleanup`, `run_optgen_cleanup`, and `run_optgen_check` to `psr.runner` module.
+
 - Fix loading `GenericConstraint` objects.
 
 
