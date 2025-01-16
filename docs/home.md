@@ -11,11 +11,11 @@ permalink: /
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
-# Version 4.0.16
+# Version 4.0.17
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.16-windows-x64-6e84123-release.zip)
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.17-windows-x64-6e84123-release.zip)
 
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.16-linux-x64-6e84123-release.zip)
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.17-linux-x64-6e84123-release.zip)
 
 
 ## Support or Contact
