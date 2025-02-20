@@ -15,10 +15,7 @@ permalink: /
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.20-windows-x64-961d076-release.zip)
 
-
-# Version 4.0.18
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.18-linux-x64-bea5ef41-release.zip)
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.20-linux-x64-961d076-release.zip)
 
 
 ## Support or Contact
