@@ -5,12 +5,38 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.20
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.20-windows-x64-961d076-release.zip)
+
+
+## Changes
+
+- Fix saving Hydro and Thermal plant maintenance data.
+
+- Fix generating detailed log.
+
+- Fix saving secondary reserve prices.
+
+- Fix saving hour block map.
+
+- Update property descriptions.
+
+- Rename `Bus`' `VoltageLevel` to `BaseVoltage`.
+
+
+# Version 4.0.19
+
+## Changes
+
+- Fix `Study.get_df` when reading references.
+
+- Update pycloud module, remove CPU limit.
+
+- Add new sddp parameters.
+
+
 # Version 4.0.18
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.18-windows-x64-3e6599d8-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.18-linux-x64-bea5ef41-release.zip)
-
 
 ## Changes
 
