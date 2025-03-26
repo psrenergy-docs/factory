@@ -5,12 +5,35 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.21
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.21-windows-x64-1f2048e-release.zip)
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.21-linux-x64-1f2048e-release.zip)
+
+
+## Changes
+
+- Add capability of generating external scenarios via TSL.
+
+- Add support for reading/saving `gndforh.dat` as/from dataframe.
+
+- Add `run_sddp_convert_fcf` to `psr.runner` module.
+
+- Add `type` member to property descriptions.
+
+- Fix reading/setting `ReserveGeneration` `HourReserve`.
+
+- Fix saving incomplete `EnergyPerBlock` data.
+
+- Fix saving incomplete `VariableDurationOfBlocks` data.
+
+- Fix saving SDDP circuit data - avoiding GUI update.
+
+- Update `psr.cloud` module.
+
+
 # Version 4.0.20
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.20-windows-x64-961d076-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.20-linux-x64-961d076-release.zip)
-
 
 ## Changes
 
