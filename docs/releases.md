@@ -5,6 +5,20 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.22
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.22-windows-x64-9392bcb-release.zip)
+
+
+## Changes
+
+- Rename `MaximumStoragePenalty` to `MaximumOperativeStoragePenalty`.
+
+- Remove validation for negative values of `EvaporationCoefficient`, `MaximumOperativeStoragePenalty` and `MinimumOperativeStoragePenalty`.
+
+- Fix `psr.runner` module, fix SDDP version check for beta and release candidate versions.
+
+
 # Version 4.0.21
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.21-windows-x64-1f2048e-release.zip)
