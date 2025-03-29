@@ -9,6 +9,7 @@ nav_order: 2
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.22-windows-x64-9392bcb-release.zip)
 
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.22-linux-x64-d611670-release.zip)
 
 ## Changes
 
@@ -20,11 +21,6 @@ nav_order: 2
 
 
 # Version 4.0.21
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.21-windows-x64-1f2048e-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.21-linux-x64-1f2048e-release.zip)
-
 
 ## Changes
 
