@@ -5,11 +5,22 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.23
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.23-linux-x64-fa91925-release.zip)
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.23-windows-x64-fa91925-release.zip)
+
+## Changes
+
+- Optimize loading and saving studies.
+
+- Cummulative updates in reading/loading data.
+
+- Fix reading TSL data.
+
+
 # Version 4.0.22
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.22-windows-x64-9392bcb-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.22-linux-x64-d611670-release.zip)
 
 ## Changes
 
