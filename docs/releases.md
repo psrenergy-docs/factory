@@ -5,11 +5,26 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+
+# Version 4.0.25
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.25-windows-x64-1d73d06-release.zip)
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.25-linux-x64-1d73d06-release.zip)
+
+## Changes
+
+- Add more diagnostics to debug log.
+
+- Cummulative updates in reading/loading data.
+
+
+# Version 4.0.24
+
+- Test release.
+
+
 # Version 4.0.23
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.23-linux-x64-fa91925-release.zip)
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.23-windows-x64-fa91925-release.zip)
 
 ## Changes
 
