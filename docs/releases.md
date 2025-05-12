@@ -5,7 +5,7 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
-## 4.0.27
+# Version 4.0.27
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.27-windows-x64-fde192f0-release.zip)
 
@@ -18,7 +18,7 @@ nav_order: 2
 - Fix intermittent error that appears when loading studies of different number of blocks.
 
 
-## 4.0.26
+# Version 4.0.26
 
 ## Changes
 
