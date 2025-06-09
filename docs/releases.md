@@ -9,6 +9,8 @@ nav_order: 2
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.29-windows-x64-649395f8-release.zip)
 
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.29-linux-x64-5a3e2f7-release.zip)
+
 
 ## Fixes
 
@@ -27,8 +29,6 @@ nav_order: 2
 
 
 # Version 4.0.27
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.27-linux-x64-4b263ac-release.zip)
 
 ## Changes
 
