@@ -5,6 +5,15 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.30
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.30-windows-x64-a6fb8a3d-release.zip)
+
+
+## Fixes
+
+- Fix dataframe's total number of rows.
+
 # Version 4.0.29
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.29-windows-x64-649395f8-release.zip)
