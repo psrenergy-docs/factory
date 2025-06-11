@@ -15,9 +15,7 @@ permalink: /
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.30-windows-x64-a6fb8a3d-release.zip)
 
-# Version 4.0.29
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.29-linux-x64-5a3e2f7-release.zip)
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.30-linux-x64-6464ab8-release.zip)
 
 
 ## Support or Contact
