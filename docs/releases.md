@@ -9,6 +9,9 @@ nav_order: 2
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.33-windows-x64-71286a25-release.zip)
 
+
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.33-linux-x64-ba87546-release.zip)
+
 ## Fixes
 
 - Allow setting `AlertStoragePenalty` to `-1` (automatic).
@@ -31,9 +34,6 @@ nav_order: 2
 
 
 # Version 4.0.30
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.30-linux-x64-6464ab8-release.zip)
-
 
 ## Fixes
 
