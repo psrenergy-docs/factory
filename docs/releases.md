@@ -5,10 +5,24 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
+# Version 4.0.35
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.35-windows-x64-0f21fcbc-release.zip)
+
+## Fixes
+
+- Add support for `FixedConverter`, `FixedConverterCommodity` objects.
+- Update wheel with optional dependencies: `[all]`, `[cloud]`, `[pandas]`, `[polars]`.
+
+
+# Version 4.0.34
+
+## Fixes
+
+- Update `psr.runner`, fix finding SDDP 18 executables.
+
+
 # Version 4.0.33
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.33-windows-x64-71286a25-release.zip)
-
 
 🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.33-linux-x64-ba87546-release.zip)
 
