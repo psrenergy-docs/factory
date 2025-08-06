@@ -5,9 +5,21 @@ nav_order: 2
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
-# Version 4.0.35
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.35-windows-x64-0f21fcbc-release.zip)
+# Version 4.0.36
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.36-windows-x64-f0a52aa0-release.zip)
+
+## Fixes
+
+- Add file permission check on `psr.factory.load_study`
+- Add `psr.factory.diagnostics()` for simple tests.
+- Add `psr.factory.get_log_file_path()` that returns the current log file path.
+- Add `set_diagnostics_mode` as replacement of `set_debug_mode`, deprecating the last.
+- Update `psr.cloud`
+
+
+# Version 4.0.35
 
 ## Fixes
 
