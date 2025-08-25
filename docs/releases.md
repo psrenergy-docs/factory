@@ -6,9 +6,28 @@ nav_order: 2
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
 
-# Version 4.0.36
+# Version 4.0.38
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.36-windows-x64-f0a52aa0-release.zip)
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.38-windows-x64-dd165257-release.zip)
+
+
+## Updates
+
+- Add `get` and `set` methods to `DataFrame` objects, allowing to read/update dataframe units. Use `Units` property to get/set the units.
+
+
+# Version 4.0.37
+
+## Fixes
+
+- Fix `GenericConstraint`'s `RHSType` valid values, allowing values `1, variable per stage (weekly cases)` and `2 variable per stage (monthly cases)`
+
+- Fix date/time format of hourly data for weekly cases.
+
+- Update `psr.cloud`.
+
+
+# Version 4.0.36
 
 🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.36-linux-x64-405f2d6-release.zip)
 
