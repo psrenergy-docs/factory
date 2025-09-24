@@ -6,6 +6,20 @@ nav_order: 2
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
 
+# Version 4.0.40
+
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.40-windows-x64-1ecc060a-release.zip)
+
+
+## Fixes
+
+- Fix issue while saving a case with missing values and replacing loaded values with defaults.
+
+## Updates
+
+- Update `psr.cloud` module.
+
+
 # Version 4.0.38
 
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.38-windows-x64-dd165257-release.zip)

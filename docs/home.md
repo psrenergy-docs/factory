@@ -11,9 +11,9 @@ permalink: /
 
 📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
 
-# Version 4.0.38
+# Version 4.0.40
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.38-windows-x64-dd165257-release.zip)
+🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.40-windows-x64-1ecc060a-release.zip)
 
 
 # Version 4.0.36
