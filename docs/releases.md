@@ -11,6 +11,9 @@ nav_order: 2
 🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.40-windows-x64-1ecc060a-release.zip)
 
 
+🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.40-linux-x64-1ecc060-release.zip)
+
+
 ## Fixes
 
 - Fix issue while saving a case with missing values and replacing loaded values with defaults.
@@ -21,8 +24,6 @@ nav_order: 2
 
 
 # Version 4.0.38
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.38-windows-x64-dd165257-release.zip)
 
 
 ## Updates
@@ -42,8 +43,6 @@ nav_order: 2
 
 
 # Version 4.0.36
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.36-linux-x64-405f2d6-release.zip)
 
 ## Fixes
 
