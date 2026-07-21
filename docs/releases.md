@@ -3,7 +3,11 @@ title: Release Notes
 nav_order: 2
 ---
 
-📚 [Factory Documentation](https://docs.psr-inc.com/factory/)
+> ⚠️ **Factory 4.0 is no longer maintained.**
+>
+> These notes are an archive of the Factory 4.0 series. Active development continues in **Factory 5.0** — see the **[Factory 5.0 changelog](https://docs.psr-inc.com/knowledge/changelog/factory/factory5.0-changelog.html)** and the **[Factory documentation](https://docs.psr-inc.com/knowledge/solutions/additional_tools/factory/getting_started/introduction.html)** in the PSR Knowledge Hub. To upgrade, follow the **[migration guide](https://docs.psr-inc.com/knowledge/solutions/additional_tools/factory/getting_started/migration_v4_to_v5.html)**.
+
+📚 [Factory documentation (Knowledge Hub)](https://docs.psr-inc.com/knowledge/solutions/additional_tools/factory/getting_started/introduction.html)
 
 
 # Version 4.0.40
