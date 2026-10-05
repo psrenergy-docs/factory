@@ -12,12 +12,6 @@ nav_order: 2
 
 # Version 4.0.40
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.40-windows-x64-1ecc060a-release.zip)
-
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.40-linux-x64-1ecc060-release.zip)
-
-
 ## Fixes
 
 - Fix issue while saving a case with missing values and replacing loaded values with defaults.
@@ -102,11 +96,6 @@ nav_order: 2
 - Fix dataframe's total number of rows.
 
 # Version 4.0.29
-
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.29-windows-x64-649395f8-release.zip)
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.29-linux-x64-5a3e2f7-release.zip)
-
 
 ## Fixes
 
@@ -323,9 +312,6 @@ nav_order: 2
 
 # Version 4.0.12
 
-🔗 [Download for Windows](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.12-windows-x64-686ec3d-release.zip)
-
-
 ## Changes
 
 - Optimize `find`, `find_by_name`, `find_by_code`, `find_by_id`.
@@ -345,8 +331,6 @@ nav_order: 2
 
 
 # Version 4.0.10
-
-🔗 [Download for Linux](https://www.psr-inc.com/app/link/?t=d&f=factory_python-4.0.10-linux-x64-81c519a1-release.zip)
 
 ## Changes
 
